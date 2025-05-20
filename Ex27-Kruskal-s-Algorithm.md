@@ -1,5 +1,5 @@
 # Ex 6(B) Kruskal’s Algorithm
-## DATE: 09/04/2025
+## DATE: 28/04/2025
 ## AIM:
 To write a C program to implement Kruskal's Algorithm for finding minimum cost
 
@@ -13,16 +13,12 @@ To write a C program to implement Kruskal's Algorithm for finding minimum cost
 7.	Print the edges of the minimum spanning tree along with its total cost.
 8.	End
 
-
 ## Program:
 ```
-/*
 Program to implement Kruskal's Algorithm
-Developed by: KRITHIGA U
-RegisterNumber:  212223240076
-*/
-```
-```
+Developed by: TANESSHA KANNAN
+RegisterNumber:  212223040225
+
 #include<stdio.h>
 #define MAX 30 typedefstruct edge
 {
@@ -88,13 +84,10 @@ printf("%d%d%d\n",spanlist.data[i].u,spanlist.data[i].v,spanlist.data[i].w); cos
 }
 printf("Costofthespanning tree=%d\n",cost);
 }
-
 ```
 
 ## Output:
-
 ![image](https://github.com/user-attachments/assets/9e53acbb-7edd-459b-84c0-b7ae84a640c7)
-
 
 ## Result:
 Thus, the C program to implement Kruskal's Algorithm for finding minimum cost is implemented successfully.
