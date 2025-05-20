@@ -1,5 +1,5 @@
 # Ex6D Travelling Salesman Problem
-## DATE: 9/4/2025
+## DATE: 30/4/2025
 ## AIM:
 To write a C Program to implement Travelling Salesman Problem for finding shortest path.
 ## Algorithm
@@ -17,11 +17,10 @@ cities.
 ```
 /*
 Program to implement Travelling Salesman Problem for finding shortest path
-Developed by: KRITHIGA U
-RegisterNumber: 212223240076
+Developed by: TANESSHA KANNAN
+RegisterNumber: 212223040225
 */
-```
-```
+
 #include<stdio.h>
 int a[10][10],visited[10],n,cost=0;
 voidget()
@@ -87,8 +86,6 @@ return 0;
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/51f68159-8f0c-4352-adea-2c2c2eba59c5)
-
-
 
 ## Result:
 Thus, the C program to implement Travelling Salesman Problem for finding shortest path is implemented successfully.
