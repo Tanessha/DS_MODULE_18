@@ -1,5 +1,5 @@
 # Ex 6(A) Prim’s Algorithm
-## DATE: 09/04/2025
+## DATE: 28/04/2025
 ## AIM:
 To write a C program to implement Prim's Algorithm for finding Total Cost of tree.
 
@@ -12,16 +12,13 @@ To write a C program to implement Prim's Algorithm for finding Total Cost of tre
 6.	Print the spanning matrix and the total cost of the spanning tree.
 7.	End
 
-
 ## Program:
 ```
 /*
 Program to implement Prim's Algorithm
-Developed by: KRITHIGA U
-RegisterNumber:  212223240076
-*/
-```
-```
+Developed by: TANESSHA KANNAN
+RegisterNumber:  212223040226
+
 #include<stdio.h> #include<stdlib.h>
 #define infinity9999 #define MAX 20
 
@@ -73,9 +70,7 @@ return(min_cost);
 ```
 
 ## Output:
-
 ![image](https://github.com/user-attachments/assets/38bdb1ed-10a6-4b8f-a0a7-c75c426e0a73)
-
 
 ## Result:
 Thus, the C program to implement Prim's Algorithm for finding Total Cost of tree is implemented successfully.
