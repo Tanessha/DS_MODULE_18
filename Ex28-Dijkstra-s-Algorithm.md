@@ -1,5 +1,5 @@
 # Ex6C Dijkstra’s Algorithm
-## DATE: 9/4/2025
+## DATE: 29/4/2025
 ## AIM:
 To write a C Program to implement Dijkstra's Algorithm to find the shortest path
 
@@ -21,8 +21,8 @@ and the path taken to reach each node.
 ```
 /*
 Program to implement Dijkstra's Algorithm 
-Developed by: KRITHIGA U
-RegisterNumber: 212223240076
+Developed by: TANESSHA KANNAN
+RegisterNumber: 212223040225
 */
 #include<stdio.h> 
 #defineINFINITY9999
@@ -100,8 +100,6 @@ printf("<-%d",j);
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/3ac81461-ec17-48eb-b3c3-b9484c568dd4)
-
-
 
 ## Result:
 Thus, the Program to implement Dijkstra's Algorithm to find the shortest path is implemented successfully.
