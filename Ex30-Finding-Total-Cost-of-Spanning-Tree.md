@@ -1,5 +1,5 @@
 # Ex6E Finding Total Cost of Spanning Tree
-## DATE: 9/4/2025
+## DATE: 01/05/2025
 ## AIM:
 To write a C Program to implement Prim's Algorithm for finding Total Cost of spanning tree.
 ## Algorithm
@@ -16,11 +16,9 @@ To write a C Program to implement Prim's Algorithm for finding Total Cost of spa
 ```
 /*
 Program to find and display the priority of the operator in the given Postfix expression
-Developed by: KRITHIGA U
-RegisterNumber: 212223240076
+Developed by: TANESSHA KANNAN
+RegisterNumber: 212223040225
 */
-```
-```
 
 #include<stdio.h>
 #include<stdlib.h>
@@ -102,8 +100,6 @@ return(min_cost);
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/f5b2f8aa-b617-4226-b061-478414a0b150)
-
-
 
 ## Result:
 Thus the C program to implement Prim's Algorithm for finding Total Cost of spanning tree is implemented successfully.
